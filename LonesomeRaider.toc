@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Lonesome Raider
+## Notes: Collect chat messages for group finding
+## Author: bgeschka
+## Version: 0.1
+## SavedVariablesPerCharacter: LSRConfig
+
+LonesomeRaider.lua
