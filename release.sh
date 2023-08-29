@@ -1,2 +1,2 @@
 #!/bin/sh -xe
-zip -r -9 LonesomeRaider.zip LonesomeRaider.lua LonesomeRaider.toc
+zip -r -9 LonesomeRaider.zip LonesomeRaider
